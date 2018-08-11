@@ -1,6 +1,14 @@
 # me-training
 
-## Elixir and Phoenix framework
+## Contents
+
+- [Elixir and Phoenix](#elixir-and-phoenix)
+- [Go](#go)
+- [Python and Django](#python-and-django)
+- [Git](#git)
+- [Markdown](#markdown)
+
+## Elixir and Phoenix
 
 - [Awesome Elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things.
 - [Phoenix framework](https://github.com/phoenixframework/phoenix) - Productive. Reliable. Fast. A productive web framework that does not compromise speed and maintainability.
@@ -22,7 +30,16 @@
 - [The Little Go Book](https://github.com/karlseguin/the-little-go-book)  - A free book introducing Go, written by Karl Seguin.
 - [Go Web Programming](https://www.manning.com/books/go-web-programming) - Go Web Programming teaches you how to build scalable, high-performance web applications in Go using modern design principles (2016).
 
-## Python and Django framework
+## Python and Django
 
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 - [The Hitchhiker’s Guide to Python (aka. Python guide)](https://docs.python-guide.org/) - This opinionated guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
+
+## Git
+
+- [git - the simple guide](http://rogerdudler.github.io/git-guide/index.html) - Just a simple guide for getting started with git. no deep shit.
+- [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.html) - Efficient branching using git-flow by Vincent Driessen.
+
+## Markdown
+
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - GitHub's guide for mastering markdown.
