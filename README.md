@@ -39,6 +39,7 @@
 ## Git
 
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/index.html) - Just a simple guide for getting started with git. no deep shit.
+- [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html) - Git Cheatsheet, categorized Git's commands based on what they affect.
 - [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.html) - Efficient branching using git-flow by Vincent Driessen.
 
 ## Markdown
