@@ -6,6 +6,8 @@
 - [Go](#go)
 - [Python and Django](#python-and-django)
 - [Git](#git)
+- [MySQL](#mysql)
+- [tmux](#tmux)
 - [Markdown](#markdown)
 
 ## Elixir and Phoenix
@@ -41,6 +43,15 @@
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/index.html) - Just a simple guide for getting started with git. no deep shit.
 - [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html) - Git Cheatsheet, categorized Git's commands based on what they affect.
 - [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.html) - Efficient branching using git-flow by Vincent Driessen.
+
+## MySQL
+
+- [MySQL Cheat Sheet](https://gist.github.com/hofmannsven/9164408) - Simply MySQL Command Line Cheatsheet.
+
+## tmux
+
+- [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read]) - Learn to navigate the world to the terminal using the tool depended on daily by thousands of system administrators and programmers.
+- [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058) - tmux shortcuts & cheatsheet.
 
 ## Markdown
 
