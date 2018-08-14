@@ -45,10 +45,13 @@
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 - [The Hitchhiker’s Guide to Python (aka. Python guide)](https://docs.python-guide.org/) - This opinionated guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
 - [PEP 8](https://www.python.org/dev/peps/pep-0008) - Style Guide for Python Code.
+- [Basic Usage of Pipenv](https://docs.pipenv.org/basics/) - This document covers some of Pipenv’s more basic features.
 
 ### Django
 
 - [Awesome Django](https://github.com/rosarior/awesome-django) - A curated list of awesome Django apps, projects and resources.
+- [Django 1.11 Tutorials](https://docs.djangoproject.com/en/1.11/intro/) - New to Django? Or to Web development in general? Well, you came to the right place: read this material to quickly get up and running.
+- [Django 2.1 Tutorials](https://docs.djangoproject.com/en/2.1/intro/) - Django Tutorials version 2.1.
 
 ## Git
 
