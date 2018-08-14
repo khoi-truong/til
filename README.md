@@ -42,6 +42,7 @@
 
 ### Python
 
+- [Full Stack Python](https://www.fullstackpython.com/) - Full Stack Python is an open book that explains concepts in plain language and provides great resources on all topics.
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 - [The Hitchhiker’s Guide to Python (aka. Python guide)](https://docs.python-guide.org/) - This opinionated guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
 - [PEP 8](https://www.python.org/dev/peps/pep-0008) - Style Guide for Python Code.
@@ -59,6 +60,8 @@
 
 - [Django 1.11 Tutorials](https://docs.djangoproject.com/en/1.11/intro/) - New to Django? Or to Web development in general? Well, you came to the right place: read this material to quickly get up and running.
 - [Django 2.1 Tutorials](https://docs.djangoproject.com/en/2.1/intro/) - Django Tutorials version 2.1.
+- [simple is better than complex](https://simpleisbetterthancomplex.com/) - Stories about Python, Django and Web Development.
+  - [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
 - [Tango with Django 1.9/1.10/1.11](https://leanpub.com/tangowithdjango19/) - A beginner's guide to web development using the Python programming language and the popular Django framework 1.9 (also compatible with 1.10 and 1.11). The book teaches you the basics through a step-by-step guide, and is written in a clear, friendly way. A series of exercises can be found too, to test your knowledge.
 - [Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - TDD for the Web, with Python, Selenium, Django, JavaScript and pals...
 - [Two Scoops of Django 1.11](https://twoscoopspress.com/products/two-scoops-of-django-1-11) - Two Scoops of Django covers common best practices.
