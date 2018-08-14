@@ -40,9 +40,15 @@
 
 ## Python and Django
 
+### Python
+
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 - [The Hitchhiker’s Guide to Python (aka. Python guide)](https://docs.python-guide.org/) - This opinionated guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
 - [PEP 8](https://www.python.org/dev/peps/pep-0008) - Style Guide for Python Code.
+
+### Django
+
+- [Awesome Django](https://github.com/rosarior/awesome-django) - A curated list of awesome Django apps, projects and resources.
 
 ## Git
 
