@@ -7,7 +7,12 @@
 - [Python and Django](#python-and-django)
 - [Git](#git)
 - [MySQL](#mysql)
-- [tmux](#tmux)
+- [Linux and Unix commands](#linux-and-unix-commands)
+  - [tmux](#tmux)
+  - [ssh](#ssh)
+  - [chmod](#chmod)
+  - [grep](#grep)
+  - [vim](#vim)
 - [Markdown](#markdown)
 
 ## Elixir and Phoenix
@@ -48,10 +53,25 @@
 
 - [MySQL Cheat Sheet](https://gist.github.com/hofmannsven/9164408) - Simply MySQL Command Line Cheatsheet.
 
-## tmux
+## Linux and Unix commands
 
-- [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read]) - Learn to navigate the world to the terminal using the tool depended on daily by thousands of system administrators and programmers.
-- [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058) - tmux shortcuts & cheatsheet.
+### tmux
+
+- [The Tao of `tmux`](https://leanpub.com/the-tao-of-tmux/read]) - Learn to navigate the world to the terminal using the tool depended on daily by thousands of system administrators and programmers.
+- [`tmux` shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058) - `tmux` shortcuts & cheatsheet.
+
+### ssh
+
+- [Running & Configuring SSH](https://www.ssh.com/ssh/#sec-Running-amp-configuring-SSH) - This section contains links topics around using, configuring, and administering SSH.
+
+### chmod
+
+### grep
+
+- [How To Use `grep` Command In Linux / Unix](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/) - Simple examples of the `grep` command.
+- [A `grep` Tutorial and Primer](https://danielmiessler.com/study/grep/) - `grep` is one of our most frequently used tools, yet many still grapple with its basics. This tutorial will make it feel like a friend rather than a stranger.
+
+### vim
 
 ## Markdown
 
