@@ -7,6 +7,7 @@
 - [Python and Django](#python-and-django)
 - [Git](#git)
 - [MySQL](#mysql)
+- [Ansible](#ansible)
 - [Linux and Unix commands](#linux-and-unix-commands)
   - [tmux](#tmux)
   - [ssh](#ssh)
@@ -52,6 +53,12 @@
 ## MySQL
 
 - [MySQL Cheat Sheet](https://gist.github.com/hofmannsven/9164408) - Simply MySQL Command Line Cheatsheet.
+
+## Ansible
+
+Ansible is a configuration management and provisioning tool, similar to Chef, Puppet or Salt.
+
+- [An Ansible2 Tutorial](https://serversforhackers.com/c/an-ansible2-tutorial) - A great and detailed introduction to getting started with Ansible.
 
 ## Linux and Unix commands
 
