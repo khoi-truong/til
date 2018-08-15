@@ -14,6 +14,7 @@
   - [chmod](#chmod)
   - [grep](#grep)
   - [vim](#vim)
+- [RegEx](#regex)
 - [Markdown](#markdown)
 
 ## Elixir and Phoenix
@@ -60,7 +61,7 @@
 
 - [Django 1.11 Tutorials](https://docs.djangoproject.com/en/1.11/intro/) - New to Django? Or to Web development in general? Well, you came to the right place: read this material to quickly get up and running.
 - [Django 2.1 Tutorials](https://docs.djangoproject.com/en/2.1/intro/) - Django Tutorials version 2.1.
-- [simple is better than complex](https://simpleisbetterthancomplex.com/) - Stories about Python, Django and Web Development.
+- [simpleisbetterthancomplex](https://simpleisbetterthancomplex.com/) - Stories about Python, Django and Web Development.
   - [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
 - [Tango with Django 1.9/1.10/1.11](https://leanpub.com/tangowithdjango19/) - A beginner's guide to web development using the Python programming language and the popular Django framework 1.9 (also compatible with 1.10 and 1.11). The book teaches you the basics through a step-by-step guide, and is written in a clear, friendly way. A series of exercises can be found too, to test your knowledge.
 - [Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - TDD for the Web, with Python, Selenium, Django, JavaScript and pals...
@@ -101,6 +102,10 @@ Ansible is a configuration management and provisioning tool, similar to Chef, Pu
 - [A `grep` Tutorial and Primer](https://danielmiessler.com/study/grep/) - `grep` is one of our most frequently used tools, yet many still grapple with its basics. This tutorial will make it feel like a friend rather than a stranger.
 
 ### vim
+
+## RegEx
+
+- [RegExr.com](https://regexr.com/) - Learn, Build & Test RegEx.
 
 ## Markdown
 
