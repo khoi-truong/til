@@ -63,6 +63,7 @@
 - [Django 2.1 Tutorials](https://docs.djangoproject.com/en/2.1/intro/) - Django Tutorials version 2.1.
 - [simpleisbetterthancomplex](https://simpleisbetterthancomplex.com/) - Stories about Python, Django and Web Development.
   - [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
+  - [List of Useful Django URL Patterns](https://simpleisbetterthancomplex.com/references/2016/10/10/url-patterns.html) -  A reference guide for common urls.
 - [Tango with Django 1.9/1.10/1.11](https://leanpub.com/tangowithdjango19/) - A beginner's guide to web development using the Python programming language and the popular Django framework 1.9 (also compatible with 1.10 and 1.11). The book teaches you the basics through a step-by-step guide, and is written in a clear, friendly way. A series of exercises can be found too, to test your knowledge.
 - [Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - TDD for the Web, with Python, Selenium, Django, JavaScript and pals...
 - [Two Scoops of Django 1.11](https://twoscoopspress.com/products/two-scoops-of-django-1-11) - Two Scoops of Django covers common best practices.
