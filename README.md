@@ -5,6 +5,7 @@
 - [Elixir and Phoenix](#elixir-and-phoenix)
 - [Go](#go)
 - [Python and Django](#python-and-django)
+- [Switf and iOS](#swift-and-iOS)
 - [Git](#git)
 - [MySQL](#mysql)
 - [Ansible](#ansible)
@@ -67,6 +68,10 @@
 - [Tango with Django 1.9/1.10/1.11](https://leanpub.com/tangowithdjango19/) - A beginner's guide to web development using the Python programming language and the popular Django framework 1.9 (also compatible with 1.10 and 1.11). The book teaches you the basics through a step-by-step guide, and is written in a clear, friendly way. A series of exercises can be found too, to test your knowledge.
 - [Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - TDD for the Web, with Python, Selenium, Django, JavaScript and pals...
 - [Two Scoops of Django 1.11](https://twoscoopspress.com/products/two-scoops-of-django-1-11) - Two Scoops of Django covers common best practices.
+
+## Swift and iOS
+
+- [Fantastic iOS Architecture](https://github.com/onmyway133/fantastic-ios-architecture) - Better ways to structure apps
 
 ## Git
 
