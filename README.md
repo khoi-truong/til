@@ -9,6 +9,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Elixir and Phoenix](#elixir-and-phoenix)
 - [Go](#go)
 - [Python and Django](#python-and-django)
+  - [Python](#python)
+  - [Django](#django)
 - [Switf and iOS](#swift-and-iOS)
 - [Git](#git)
 - [MySQL](#mysql)
@@ -61,6 +63,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Django
 
 - [Awesome Django](https://github.com/rosarior/awesome-django) - A curated list of awesome Django apps, projects and resources.
+- [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views.
 
 #### Django books and tutorials
 
