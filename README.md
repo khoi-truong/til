@@ -83,7 +83,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Git
 
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/index.html) - Just a simple guide for getting started with git. no deep shit.
+- [GitHub Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet/) - Keep these handy! Reference sheets covering Git commands, features, SVN migrations, and bash. Available in a multiple languages.
 - [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html) - Git Cheatsheet, categorized Git's commands based on what they affect.
+- [Learn Git branching](https://learngitbranching.js.org/) - Try Git commands right from your web browser. Featuring some of your soon-to-be favorites: branch, add, commit, merge, revert, cherry-pick, rebase!
 - [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.html) - Efficient branching using git-flow by Vincent Driessen.
 
 ## MySQL
