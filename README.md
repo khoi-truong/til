@@ -38,6 +38,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Go
 
 - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
+- [Effective Go](https://golang.org/doc/effective_go.html) - A document that gives tips for writing clear, idiomatic Go code. A must read for any new Go programmer. It augments the tour and the language specification, both of which should be read first.
 - [Echo web framework](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
 - [Echo framework guide](https://echo.labstack.com/guide) - High performance, minimalist Go web framework.
 
