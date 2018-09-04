@@ -44,6 +44,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ### Go books
 
+- [Ultimate Go Programming](https://www.safaribooksonline.com/library/view/ultimate-go-programming/9780134757476/) - Ultimate Go Programming LiveLessons provides an intensive, comprehensive, and idiomatic view of the Go programming language.
 - [The Little Go Book](https://github.com/karlseguin/the-little-go-book)  - A free book introducing Go, written by Karl Seguin.
 - [Go Web Programming](https://www.manning.com/books/go-web-programming) - Go Web Programming teaches you how to build scalable, high-performance web applications in Go using modern design principles (2016).
 
