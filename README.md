@@ -94,6 +94,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html) - Git Cheatsheet, categorized Git's commands based on what they affect.
 - [Learn Git branching](https://learngitbranching.js.org/) - Try Git commands right from your web browser. Featuring some of your soon-to-be favorites: branch, add, commit, merge, revert, cherry-pick, rebase!
 - [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.html) - Efficient branching using git-flow by Vincent Driessen.
+- [Oh, shit, git!](https://ohshitgit.com/) - Some bad situations in git.
 
 ## MySQL
 
