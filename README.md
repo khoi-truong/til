@@ -6,6 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Contents
 
+- [General theories](#general-theories)
 - [Elixir and Phoenix](#elixir-and-phoenix)
 - [Go](#go)
 - [Python and Django](#python-and-django)
@@ -23,6 +24,10 @@ A collection of concise write-ups on small things I learn day to day across a va
   - [vim](#vim)
 - [RegEx](#regex)
 - [Markdown](#markdown)
+
+## General theories
+
+- [hacker-laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
 
 ## Elixir and Phoenix
 
