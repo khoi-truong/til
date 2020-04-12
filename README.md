@@ -7,7 +7,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ## Contents
 
 - [General theories](#general-theories)
-- [Data Structures and Algorithms (DSA)](#data-structures-and-algorithms-(dsa))
+- [Data Structures and Algorithms (DSA)](#data-structures-and-algorithms-dsa)
 - [Elixir and Phoenix](#elixir-and-phoenix)
 - [Go](#go)
 - [Python and Django](#python-and-django)
