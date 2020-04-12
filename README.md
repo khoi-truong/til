@@ -6,6 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Contents
 
+- [Data Structures and Algorithms (DSA)](#data-structures-and-algorithms-(dsa))
 - [Elixir and Phoenix](#elixir-and-phoenix)
 - [Go](#go)
 - [Python and Django](#python-and-django)
@@ -23,6 +24,13 @@ A collection of concise write-ups on small things I learn day to day across a va
   - [vim](#vim)
 - [RegEx](#regex)
 - [Markdown](#markdown)
+
+## Data Structures and Algorithms (DSA)
+
+- [Programiz Learn DS & Algorithms](https://www.programiz.com/dsa)
+- [Algorithms, Part I - Robert Sedfgewick](https://www.coursera.org/learn/algorithms-part1)
+- [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
+- [Big-O Cheatsheet](https://www.bigocheatsheet.com/) - Know Thy Complexities!
 
 ## Elixir and Phoenix
 
